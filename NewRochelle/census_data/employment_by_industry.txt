@@ -1,0 +1,14 @@
+US census employment industry		Number of employees	Percentage	Consolidation by cateogry
+C1	Agriculture, forestry, fishing and hunting, and mining	81	0.20%	
+C2	Construction	3237	8.00%	
+C3	Manufacturing	1497	3.70%	
+C4	Wholesale trade	1133	2.80%	
+C5	Retail trade	3682	9.10%	J,G, U
+C6	Transportation and warehousing, and utilities	1537	3.80%	P, GG, HH
+C7	Information	1133	2.80%	E
+C8	Finance and insurance, and real estate and rental and leasing	3115	7.70%	R
+C9	Professional, scientific, and management, and administrative and waste management services	5260	13.00%	DD
+C10	Educational services, and health care and social assistance	11531	28.50%	F, H, AA, BB, CC, FF
+C11	Arts, entertainment, and recreation, and accommodation and food services	4410	10.90%	K, N, S, T, Y, Z, Q, EE
+C12	Other services, except public administration	2266	5.60%	L,V,
+C13	Public administration	1578	3.90%	X

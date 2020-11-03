@@ -1,0 +1,43 @@
+# Public places - buildings
+- Compared input and output line by line for each
+- Tests check for total numbers
+
+# Residential buildings
+- Checked the calculations of number of units in multi-unit buildings
+- Checked total number of units in each multiunit
+- Checked the total and total after merging with retirement homes
+- Visualized and check place by place using a scatter plot and answering the following:
+	- Are all buildings accounted for?
+	- Is the number of units in each building correct?
+
+# Agents
+- Checked correctness of the global age-group dict and number of agents in each
+	group
+- Same as above for the household head
+- Checked if household size distribution is loaded properly
+- Agents in retirement homes:
+	- Number of agents in each home 
+	- Inspected agent characteristics in each home and some home IDs/locations
+- Agent - hospital patients:
+	- Same as for retirement homes
+- Household heads distribution:
+	- Number of total, vacant, and non-vacant households
+	- Number of heads in each size group, sum of all groups
+	- Inspected agents information on their household
+- Distribution into households:
+	- Checked if all age groups have 0 agents after the distribution
+		(i.e. all has been distributed)
+	- All agents except hospital patients have household ID
+	- Visually inspected household structure 
+- Distribution into schools:
+	- Checked if all agents elementary - high school that are not 
+		hospital patients are assigned to a school
+	- Checked if all schools have realistic number of agents
+	- Visually inspected ages of agents in schools
+- Distribution into hospitals as workplaces:
+	- Visual inspection of agent characteristics
+- Distribution into workplaces:
+	- Verification of age range of working agent
+	- Checked if the total matches
+	- Check if number of agents in each individual workplace matches the expectations 
+	- Check if agents in retirement home are not working

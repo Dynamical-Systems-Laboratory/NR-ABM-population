@@ -1,0 +1,4 @@
+A = single family residence
+B = multi-level residence
+C = residence & business practice
+D = townhouse
