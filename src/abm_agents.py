@@ -582,7 +582,7 @@ class Agents(object):
 				agent[tag] = True
 				agent['works'] = True
 				agent['workID'] = workplace['ID']
-				school['num employees'] -= 1	
+				workplace['num employees'] -= 1	
 
 	def distribute_hospitals(self, hospitals, max_working_age):
 		''' Assigns hospital IDs to hospital employees '''
