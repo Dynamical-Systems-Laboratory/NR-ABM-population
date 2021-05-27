@@ -36,3 +36,9 @@ Documentation and a user manual will soon be provided.
 ## Notes
 
 We encourage the users and developers to report any issues, including platform incompatibility and failed tests on our GitHub page or directly, by sending us an email.
+
+## Citation
+
+If you find this software useful, consider citing
+
+*Truszkowska A, Behring B, Hasanyan J, Zino L, Butail S, Caroppo E, Jiang ZP, Rizzo A, Porfiri M. COVID‐19 Modeling: High‐Resolution Agent‐Based Modeling of COVID‐19 Spreading in a Small Town (Adv. Theory Simul. 3/2021). Advanced Theory and Simulations. 2021 Mar;4(3):2170005.*
